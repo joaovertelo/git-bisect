@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Realizando autenticacao");
         System.out.println("Listando metodos de pagamento");
+        System.out.println("Selecionando método de pagamento");
     }
 }
