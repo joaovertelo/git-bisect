@@ -15,5 +15,6 @@ public class Main {
         System.out.println("34");
         System.out.println("55");
         System.out.println("89");
+        System.out.println("144");
     }
 }
