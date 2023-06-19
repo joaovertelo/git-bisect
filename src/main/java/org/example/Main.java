@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Fibonacci");
         System.out.println("1");
         System.out.println("1");
+        System.out.println("2");
     }
 }
